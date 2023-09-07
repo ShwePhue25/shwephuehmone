@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shwephuehmone25](https://github.com/shwephuehmone25)
 
--  Woman bowing You can see my portfolio here https://shwephuehmone.vercel.app.
+-  You can see my portfolio here https://shwephuehmone.vercel.app.
 
 - 💬 Ask me about **node.js,express.js,vue.js,nuxt.js,alpine.js, pure php and laravel**
 
